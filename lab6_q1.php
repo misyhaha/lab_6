@@ -33,6 +33,5 @@
             <td><?php echo "$address"; ?></td>
         </tr>
     </table>
- 
 </body>
 </html>
